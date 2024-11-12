@@ -811,8 +811,18 @@
             "key": "c6a2b698-9289-4163-b8de-ce0a361f20c6",
             "title": "ffff",
             "icon": "sicon-clothes-hanger",
-            "path": "test",
-            "fields": []
+            "path": "test.test",
+            "fields": [
+                {
+                    "id": "title",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "restttt",
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": null,
